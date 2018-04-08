@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_list"
+        android:icon="@drawable/ic_list_black_24dp"
+        android:iconTint="@android:color/background_light"
+        android:title="Item"
+        android:visible="false"
+        app:showAsAction="always" />
+</menu>
